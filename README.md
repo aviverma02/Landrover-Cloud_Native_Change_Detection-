@@ -243,6 +243,7 @@ Integration with GIS systems
 📧 Support
 For issues or questions, please refer to the error messages displayed in the application or check the logs.
 
-Built with ❤️ using Flask and OpenCV
+Built with ❤️ using Flask and OpenCV   
+
 
 
