@@ -6,7 +6,7 @@ A production-ready Flask web application that detects and visualizes land-use ch
 Image Upload Interface: User-friendly form to upload before/after satellite images
 Automated Change Detection: Advanced image processing pipeline using OpenCV
 Visual Results: Color-coded visualization of detected changes
-Change Metrics: Quantitative analysis with percentage and severity levels
+Change Metrics: Quantitative analysis with percentage and severity levels 
 Error Handling: Comprehensive validation and user-friendly error messages
 Responsive Design: Works seamlessly on desktop and mobile devices
 Production Ready: Includes deployment configurations for cloud platforms
@@ -244,6 +244,7 @@ Integration with GIS systems
 For issues or questions, please refer to the error messages displayed in the application or check the logs.
 
 Built with ❤️ using Flask and OpenCV   
+
 
 
 
