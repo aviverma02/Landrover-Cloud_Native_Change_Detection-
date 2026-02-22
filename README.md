@@ -9,7 +9,7 @@ Visual Results: Color-coded visualization of detected changes
 Change Metrics: Quantitative analysis with percentage and severity levels 
 Error Handling: Comprehensive validation and user-friendly error messages
 Responsive Design: Works seamlessly on desktop and mobile devices
-Production Ready: Includes deployment configurations for cloud platforms
+Production Ready: Includes deployment configurations for cloud platforms  
 🛠️ Technology Stack
 Backend: Flask (Python 3.8+)
 Image Processing: OpenCV, NumPy
@@ -244,6 +244,7 @@ Integration with GIS systems
 For issues or questions, please refer to the error messages displayed in the application or check the logs.
 
 Built with ❤️ using Flask and OpenCV   
+
 
 
 
