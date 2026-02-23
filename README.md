@@ -26,7 +26,7 @@ land-use-detection/
 │   └── style.css          # Frontend styling
 └── templates/
     └── index.html         # Main web interface
-🚀 Local Installation & Setup  
+🚀 Local Installation & Setup    
 Prerequisites
 Python 3.8 or higher
 pip (Python package manager)
@@ -244,6 +244,7 @@ Integration with GIS systems
 For issues or questions, please refer to the error messages displayed in the application or check the logs.
 
 Built with ❤️ using Flask and OpenCV   
+
 
 
 
