@@ -15,7 +15,7 @@ Backend: Flask (Python 3.8+)
 Image Processing: OpenCV, NumPy
 Frontend: HTML5, CSS3, JavaScript (ES6)  
 Server: Gunicorn (for production)
-📁 Project Structure
+📁 Project Structure 
 land-use-detection/
 ├── app.py                  # Flask application with routes and processing logic
 ├── requirements.txt        # Python dependencies
@@ -244,6 +244,7 @@ Integration with GIS systems
 For issues or questions, please refer to the error messages displayed in the application or check the logs.
 
 Built with ❤️ using Flask and OpenCV   
+
 
 
 
