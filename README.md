@@ -42,7 +42,7 @@ bash
    python -m venv venv
 Activate Virtual Environment On Windows:
 bash
-   venv\Scripts\activate
+   venv\Scripts\activate 
 On macOS/Linux:
 
 bash
@@ -244,6 +244,7 @@ Integration with GIS systems
 For issues or questions, please refer to the error messages displayed in the application or check the logs.
 
 Built with ❤️ using Flask and OpenCV   
+
 
 
 
