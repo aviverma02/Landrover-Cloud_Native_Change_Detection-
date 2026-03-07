@@ -1,6 +1,6 @@
 
 🌍 Cloud-Native Land-Use Change Detection System 
-A production-ready Flask web application that detects and visualizes land-use changes between two satellite images using advanced computer vision techniques with OpenCV.
+A production-ready Flask web application that detects and visualizes land-use changes between two satellite images using advanced computer vision techniques with OpenCV. 
  
 📋 Features
 Image Upload Interface: User-friendly form to upload before/after satellite images
@@ -244,6 +244,7 @@ Integration with GIS systems
 For issues or questions, please refer to the error messages displayed in the application or check the logs.
 
 Built with ❤️ using Flask and OpenCV   
+
 
 
 
