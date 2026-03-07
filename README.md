@@ -76,7 +76,7 @@ Orange contours = Moderate change
 Red contours = High change
 Analyze New Images
 Click "🔄 Analyze New Images" to start over
-🔬 Image Processing Pipeline
+🔬 Image Processing Pipeline 
 The application uses a sophisticated multi-step process:
 
 Image Loading: Reads both satellite images
@@ -244,6 +244,7 @@ Integration with GIS systems
 For issues or questions, please refer to the error messages displayed in the application or check the logs.
 
 Built with ❤️ using Flask and OpenCV   
+
 
 
 
