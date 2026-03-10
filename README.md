@@ -19,7 +19,7 @@ Server: Gunicorn (for production)
 land-use-detection/
 ├── app.py                  # Flask application with routes and processing logic
 ├── requirements.txt        # Python dependencies
-├── README.md              # This file
+├── README.md              # This file 
 ├── static/
 │   ├── uploads/           # Uploaded images storage
 │   ├── results/           # Processed results storage
@@ -244,6 +244,7 @@ Integration with GIS systems
 For issues or questions, please refer to the error messages displayed in the application or check the logs.
 
 Built with ❤️ using Flask and OpenCV   
+
 
 
 
