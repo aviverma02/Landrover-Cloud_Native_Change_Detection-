@@ -1,4 +1,3 @@
-
 🌍 Cloud-Native Land-Use Change Detection System 
 A production-ready Flask web application that detects and visualizes land-use changes between two satellite images using advanced computer vision techniques with OpenCV. 
  
