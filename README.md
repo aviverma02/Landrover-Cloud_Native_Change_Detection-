@@ -250,19 +250,3 @@ Built with ❤️ using Flask and OpenCV
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
